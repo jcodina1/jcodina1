@@ -18,7 +18,7 @@
 💎A pesar de que no tenga mucha experiencia laboral He realizado diferentes proyectos personales y he diseñado paginas web para dos empresas de personas cercanas a mi.<br/>
 💎 Termine un BootCamp De programación llamado Soy Henry en el cual pude mejorar mis habilidades técnicas y mis habilidades blandas, en este BootCamp tuve +700 horas de practica y realización de proyectos.<br/>
 </p>
-<h3 align="left">Si quieres Saber mas de mi, Contáctame!♂️</h3>
+<h3 align="left">Si quieres Saber mas de mi, Contáctame!👋</h3>
 <p>
 
 📲WP: +57 3154593931 o https://walink.co/d31028<br/>
