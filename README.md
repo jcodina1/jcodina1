@@ -21,7 +21,7 @@
 <h3 align="left">Si quieres Saber mas de mi, Contáctame!👋</h3>
 <p>
 
-📲WP: +57 3154593931 o https://walink.co/d31028<br/>
+📲WP: +57 3154593931 o [https://walink.co/d31028](https://wa.link/2ahuqn)<br/>
 📒Calendly: https://calendly.com/jcodina1997<br/>
 📧Correo: Jcodina1997@gmail.com<br/>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan camilo codina" height="15" width="15" /> Linkedin:www.linkedin.com/in/jcodina1
